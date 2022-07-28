@@ -1,1 +1,1 @@
-Landing-page para treinar e fixar habilidades de HMTL e CSS!
+Landing-page responsivo para treinar e fixar habilidades de HMTL e CSS!
